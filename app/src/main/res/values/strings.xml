@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">control de gastos</string>
+    <string name="titulo">Control de gastos</string>
+    <string name="gasto">Ingrese el valor de lo que se gastó</string>
+    <string name="btnEnviar">Enviar a la db</string>
+    <string name="btnCalcular">Calular los gastos</string>
+    <string name="hintValorGastado">Dinero Gastado</string>
+</resources>
